@@ -5,7 +5,8 @@ Authors@R: person("Josiah", "Parry", email = "josiah.parry@yahoo.com", role = c(
 Description: Easily access song lyrics in a tidy way.
 Depends: R (>= 3.4.2)
 Imports:
-  dplyr
+  dplyr,
+  tidyr
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
